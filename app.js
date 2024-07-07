@@ -1,5 +1,4 @@
-//  const apiKey = "2df7cb70b9c42a7b8b739152a0765153";
-// const apiKey = "49d0a5451ec25654941e99903d4e5612";
+
 const apiKey = "2d5a5c370fc2fbff1679c3d9665d8596";
 
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
